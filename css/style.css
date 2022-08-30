@@ -32,8 +32,8 @@ body {
   text-align: right;
 }
 
-#previous-operation,
-#current-operation {
+#previous-operations,
+#current-operations {
   min-height: 1.6em;
   padding: 0.2em;
   overflow-wrap: break-word;
